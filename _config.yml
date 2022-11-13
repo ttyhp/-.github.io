@@ -63,8 +63,8 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: f945385abea3b5444d8b
-  clientSecret: 8026d6bacf7614feb0617937d2ad86a951f2f5e2
+  clientID: 04fb797941ddb91f0dc4
+  clientSecret: 3e7dc3d29ada1d938644e85281a27511300b984c
   repo: ttyhp.github.io
   owner: ttyhp
 
