@@ -63,10 +63,10 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: bd65d5c0df878155b7fa
-  clientSecret: d0220762c05c2d6b6f6152a0f0e4b6b090de9729
+  clientID: f945385abea3b5444d8b
+  clientSecret: 8026d6bacf7614feb0617937d2ad86a951f2f5e2
   repo: ttyhp.github.io
-  owner: lemonchann
+  owner: ttyhp
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 #google_analytics: 
